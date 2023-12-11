@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CONBNC002")(type "KiCad")(uri "${KIPRJMOD}/symbols_footprints/CONBNC002/CONBNC002.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-10-27_21-48-46")(type "KiCad")(uri "${KIPRJMOD}/symbols_footprints/FMP200FRF52_220R/KiCADv6/2023-10-27_21-48-46.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74LS06DR")(type "KiCad")(uri "${KIPRJMOD}/symbols_footprints/SN74LS06DR/SN74LS06DR.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-10-27_21-47-43")(type "KiCad")(uri "${KIPRJMOD}/symbols_footprints/TB6568KQ_8/KiCADv6/2023-10-27_21-47-43.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-11-22_22-07-34")(type "KiCad")(uri "${KIPRJMOD}/symbols_footprints/LM2940IMP_10_NOPB/KiCADv6/2023-11-22_22-07-34.kicad_sym")(options "")(descr ""))
+)
